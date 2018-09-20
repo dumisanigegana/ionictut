@@ -1,0 +1,8 @@
+{
+  "name": "ionictut",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "9d8b8c60"
+}
